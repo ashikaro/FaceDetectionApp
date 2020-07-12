@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ashika blur face hw3</string>
+    <string name="blur">blur my face</string>
+    <string name="todo">TODO</string>
+    <string name="unblur">Un-blur</string>
+    <string name="smileprob">SmileProb</string>
+    <string name="detect_face">Detect_Face</string>
+</resources>
